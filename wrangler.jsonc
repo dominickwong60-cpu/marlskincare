@@ -1,0 +1,14 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "marlskincare",
+  "compatibility_date": "2026-05-30",
+  "observability": {
+    "enabled": true
+  },
+  "assets": {
+    "directory": "marl-site-build"
+  },
+  "compatibility_flags": [
+    "nodejs_compat"
+  ]
+}
